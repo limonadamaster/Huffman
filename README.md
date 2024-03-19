@@ -1,0 +1,1 @@
+Huffman coding is an algorithm for compressing data with the aim of reducing its size without losing any of the details. This algorithm was developed by David Huffman. Huffman coding is typically useful for the case where data that we want to compress has frequently occurring characters in it.25.10.2021 г.
